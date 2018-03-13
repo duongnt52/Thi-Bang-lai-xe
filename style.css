@@ -2,41 +2,16 @@
   margin: 0;
   padding: 0;
 }
-#header {
+/*#header {
 	margin: auto;
 	padding: auto;
 	padding-left: 300px;
 	padding-right: 320px;
 }
-#header-img{
-	padding-top: 10px;
-}
-#content{
-/*	margin: auto;
-	padding: auto;*/
-	padding-left: 300px;
-	padding-right: 600px;
-	float: left;
-	padding-top: 20px;
+*/
 
-}
-.content-row{	
-	padding-top: 10px;
-}
-#content-left{
-	float: left;
 
-}
-#content-right{
-	
-	float: right;
-}
-#row{
-	display: inline;
-}	
-#slidebar{
-	width: 560px;
-	height: 20px;
-  	background: #b1b1b1;
-	float: right;
+.wraper{
+	padding-left: 100px;
+	padding-right: 100px;
 }

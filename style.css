@@ -9,9 +9,20 @@
 	padding-right: 320px;
 }
 */
-
+body{
+	font-family: arial;
+	font-size: 14px;
+}
 
 .wraper{
-	padding-left: 100px;
+	
+	padding-left: 50px;
 	padding-right: 100px;
+	
+}
+
+#radio {
+		border:1px solid #CCC;
+		padding-left: 20px;
+		background-color: #CCC;
 }
